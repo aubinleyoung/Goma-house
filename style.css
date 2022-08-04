@@ -29,15 +29,23 @@ button{
     width: 100px;
     height: 50px;
     position: relative;
-    top: 250px;
-    margin-left: 50%;
+    top: 180px;
+    margin-left: 45%;
     cursor: pointer;
     border: none;
     
 }
+.home{
+    padding: 15%;
+}
 .entete{
     display: flex;
     justify-content: space-around;
+    position: relative;
+    top: 20px;
+    /* background-color: rgba(1, 1, 1, 0.24); */
+    width: 100%;
+    height: 50px;
     
 }
 .entete ul li{
