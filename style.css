@@ -15,10 +15,10 @@ ul {
     list-style: none;
 }
 .logo1{
-    position: fixed;
-    top: -10px;
+    position: absolute;
+    top: -8gpx;
     left: 0px;
-    height: 120px;
+    height: 110px;
     width: auto;
 }
 .active {
